@@ -1,0 +1,1 @@
+sc create MinecraftServer BinPath=C:\Users\ajssc\personal\minecraft\MinecraftServer\MinecraftServer\bin\Release\netcoreapp3.1\win-x64\MinecraftServer.exe
