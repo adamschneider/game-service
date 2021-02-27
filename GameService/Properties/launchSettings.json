@@ -1,6 +1,6 @@
 ﻿{
   "profiles": {
-    "MinecraftServer": {
+    "GameServer": {
       "commandName": "Project",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"

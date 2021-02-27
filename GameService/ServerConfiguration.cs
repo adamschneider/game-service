@@ -1,4 +1,4 @@
-﻿namespace MinecraftServer
+﻿namespace GameService
 {
     public class ServerConfiguration
     {

@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>dotnet-MinecraftServer-FC8671E0-74FE-42F9-9822-D0FBFB99C388</UserSecretsId>
+    <AssemblyName>GameService</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
